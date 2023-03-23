@@ -9,21 +9,21 @@ Enterprise computing involves the integration of many different resources and te
 The goals and objectives of this course are: 
 <ol>
   <li>Be able to create and debug multi-threaded applications in Java.</li>
-Be able to develop enterprise solutions using servlet- and JSP-based technologies.
-Be able to develop and administer distributed server-based applications.
-Be able to develop PHP-based web applications.
-Be able to develop web-based applications under the JEE framework.
-Distributed and Cloud computing concepts.
-Public and private clouds.
-Cloud security issues.
+  <li>Be able to develop enterprise solutions using servlet- and JSP-based technologies.</li>
+  <li>Be able to develop and administer distributed server-based applications.</li>
+  <li>Be able to develop PHP-based web applications.</li>
+  <li>Be able to develop web-based applications under the JEE framework.</li>
+  <li>Distributed and Cloud computing concepts.</li>
+  <li>Public and private clouds.</li>
+  <li>Cloud security issues.</li>
 </ol>  
   
 ## The primary course topics, designed to help you achieve the course objectives listed above, are:
 
 <ol>
-Multi-threaded applications. Communication and synchronization amongst threads.
-Networking issues for distributed systems.
-Database systems backend connectivity. JDBC and other technologies.
-Multi-tier distributed enterprise applications.
-Apache HTTP Server, Apache Tomcat Server, GlassFish Server. Server administration issues
+  <li>Multi-threaded applications. Communication and synchronization amongst threads.</li>
+  <li>Networking issues for distributed systems.</li>
+  <li>Database systems backend connectivity. JDBC and other technologies.</li>
+  <li>Multi-tier distributed enterprise applications.</li>
+  <li>Apache HTTP Server, Apache Tomcat Server, GlassFish Server. Server administration issues.</li>
 </ol>
