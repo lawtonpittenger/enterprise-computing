@@ -8,7 +8,7 @@ Enterprise computing involves the integration of many different resources and te
 ## Student Learning Outcomes
 The goals and objectives of this course are: 
 <ol>
-Be able to create and debug multi-threaded applications in Java.
+  <li>Be able to create and debug multi-threaded applications in Java.</li>
 Be able to develop enterprise solutions using servlet- and JSP-based technologies.
 Be able to develop and administer distributed server-based applications.
 Be able to develop PHP-based web applications.
