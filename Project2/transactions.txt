@@ -1,0 +1,25 @@
+
+ 		Withdrawal Agent WT4 issued withdrawal of $96.00 at 10/02/2023 14:55:13 EST Transaction Number: 2
+ 		Withdrawal Agent WT6 issued withdrawal of $84.00 at 10/02/2023 14:55:13 EST Transaction Number: 2
+ Depositor Agent DT4 issued deposit of $456.00 at 10/02/2023 14:55:13 EST Transaction Number: 3
+ 		Withdrawal Agent WT8 issued withdrawal of $93.00 at 10/02/2023 14:55:13 EST Transaction Number: 5
+ 		Withdrawal Agent WT1 issued withdrawal of $89.00 at 10/02/2023 14:55:13 EST Transaction Number: 9
+ 		Withdrawal Agent WT2 issued withdrawal of $80.00 at 10/02/2023 14:55:13 EST Transaction Number: 10
+ 		Withdrawal Agent WT4 issued withdrawal of $91.00 at 10/02/2023 14:55:16 EST Transaction Number: 19
+ 		Withdrawal Agent WT1 issued withdrawal of $91.00 at 10/02/2023 14:55:17 EST Transaction Number: 30
+ 		Withdrawal Agent WT3 issued withdrawal of $76.00 at 10/02/2023 14:55:17 EST Transaction Number: 31
+ 		Withdrawal Agent WT2 issued withdrawal of $99.00 at 10/02/2023 14:55:20 EST Transaction Number: 37
+ 		Withdrawal Agent WT1 issued withdrawal of $79.00 at 10/02/2023 14:55:20 EST Transaction Number: 37
+ 		Withdrawal Agent WT8 issued withdrawal of $85.00 at 10/02/2023 14:55:20 EST Transaction Number: 37
+ 		Withdrawal Agent WT4 issued withdrawal of $90.00 at 10/02/2023 14:55:20 EST Transaction Number: 37
+ Depositor Agent DT4 issued deposit of $481.00 at 10/02/2023 14:55:20 EST Transaction Number: 38
+ 		Withdrawal Agent WT9 issued withdrawal of $91.00 at 10/02/2023 14:55:23 EST Transaction Number: 54
+ 		Withdrawal Agent WT9 issued withdrawal of $89.00 at 10/02/2023 14:55:23 EST Transaction Number: 58
+ 		Withdrawal Agent WT4 issued withdrawal of $84.00 at 10/02/2023 14:55:24 EST Transaction Number: 61
+ 		Withdrawal Agent WT9 issued withdrawal of $93.00 at 10/02/2023 14:55:25 EST Transaction Number: 66
+ Depositor Agent DT1 issued deposit of $479.00 at 10/02/2023 14:55:28 EST Transaction Number: 76
+ 		Withdrawal Agent WT1 issued withdrawal of $80.00 at 10/02/2023 14:55:28 EST Transaction Number: 79
+ 		Withdrawal Agent WT10 issued withdrawal of $81.00 at 10/02/2023 14:55:30 EST Transaction Number: 87
+ 		Withdrawal Agent WT8 issued withdrawal of $97.00 at 10/02/2023 14:55:30 EST Transaction Number: 89
+ 		Withdrawal Agent WT3 issued withdrawal of $98.00 at 10/02/2023 14:55:31 EST Transaction Number: 96
+ 		Withdrawal Agent WT5 issued withdrawal of $86.00 at 10/02/2023 14:55:32 EST Transaction Number: 100
